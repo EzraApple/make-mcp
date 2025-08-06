@@ -1,4 +1,4 @@
-# make-mcp
+# new-mcp
 
 A scaffold tool for creating Model Context Protocol (MCP) servers with TypeScript and established patterns.
 
@@ -16,7 +16,7 @@ This project is in early development. The goal is to create a tool similar to `c
 ## Planned Usage
 	
 ```bash
-npx make-mcp@latest my-mcp-server
+npx new-mcp@latest my-mcp-server
 ```
 
 ## Development Timeline

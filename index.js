@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-console.log(`make-mcp v0.0.1
+console.log(`new-mcp v0.0.1
 
 A scaffold tool for creating Model Context Protocol servers.
 
@@ -11,7 +11,7 @@ This package is currently in development. The goal is to provide:
 - Example tools, resources, and prompts
 - Optional database integration
 
-Repository: https://github.com/yourusername/make-mcp
+Repository: https://github.com/EzraApple/make-mcp
 Expected release: 2025
 
 Thanks for your interest!`);
