@@ -1,0 +1,19 @@
+{
+  "name": "make-mcp",
+  "version": "0.0.1",
+  "description": "Scaffold tool for creating MCP servers with TypeScript and best practices",
+  "main": "index.js",
+  "bin": {
+    "make-mcp": "./index.js"
+  },
+  "keywords": ["mcp", "scaffold", "cli", "typescript", "model-context-protocol"],
+  "author": "Ezra Apple <ezraapple.engineer@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EzraApple/make-mcp.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
